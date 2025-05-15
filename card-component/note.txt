@@ -1,0 +1,2 @@
+Add image to the assets folder and import that 
+Create a Card file and add css in index.css

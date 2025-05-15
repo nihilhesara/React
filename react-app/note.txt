@@ -4,3 +4,5 @@ public folder - all fonts, images and videos
 src folder - all the code
 
 we can only return a single element in a return statement
+
+How to add a Header and Footer to a react project
