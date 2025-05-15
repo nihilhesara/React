@@ -1,0 +1,6 @@
+vite project - npm create vite@latest
+
+public folder - all fonts, images and videos
+src folder - all the code
+
+we can only return a single element in a return statement
