@@ -24,3 +24,13 @@ npm run dev
 18. 04:00:08 useContext() hook 🧗‍♂️
 19. 04:11:44 useRef() hook 🗳️
 20. 04:23:01 stopwatch app ⏱
+
+1. react-app
+2. card-component
+3. css-styles
+4. props
+5. conditional-rendering
+6. render-list
+7. render-list2
+8. click-event
+9. click-event2
