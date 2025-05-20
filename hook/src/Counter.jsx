@@ -1,9 +1,10 @@
 import React,{useState} from "react";
 
 function Counter() {
-
+    // Initialize values
     const [count, setCount] = useState(0);
 
+    // Create functions
     const increment = () => {
         setCount(count + 1);
     }
@@ -16,6 +17,7 @@ function Counter() {
         setCount(0);
     }
 
+    // Return the output
     return(
         <div className="counter-container">
             <p className="count-display">{count}</p>

@@ -1,10 +1,12 @@
 import React, { useState } from "react";
 
 function MyComponent() {
+    // Create constant values
     const [name, setName] = useState("Guest");
     const [age, setAge] = useState(0);
     const [isEmployed, setIsEmployed] = useState(false);
 
+    // Create functions
     const updateName = () => {
         setName("Nihil");
     };
@@ -17,6 +19,7 @@ function MyComponent() {
         setIsEmployed(!isEmployed);
     };
 
+    // return the output
     return (
         <div>
             <p>Name: {name}</p>
