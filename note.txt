@@ -38,3 +38,4 @@ npm run dev
 11. onChange-event
 12. upgrade-function
 13. update-state
+14. update-array
