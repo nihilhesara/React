@@ -39,3 +39,4 @@ npm run dev
 12. upgrade-function
 13. update-state
 14. update-array
+15. update-array-object
