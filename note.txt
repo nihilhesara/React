@@ -40,3 +40,5 @@ npm run dev
 13. update-state
 14. update-array
 15. update-array-object
+16. useEffect
+17. useEffect2
